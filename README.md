@@ -1,0 +1,16 @@
+## ai-assignments
+
+1. [DFS BFS](https://github.com/VaishnavGhenge/ai-assignments/blob/main/dfs-bfs.ipynb)
+2. [A* Tic Tac Toe](https://github.com/VaishnavGhenge/ai-assignments/blob/main/astar-tictactoe.ipynb)
+3. [A* Optimal Path](https://github.com/VaishnavGhenge/ai-assignments/blob/main/astar-optimal-path.ipynb)
+4. [A* 8 Tiles Puzzle](https://github.com/VaishnavGhenge/ai-assignments/blob/astar-tictactoe.ipynb)
+5. [Selection Sort](https://github.com/VaishnavGhenge/ai-assignments/blob/main/selection-sort.ipynb)
+6. [Minimum Spanning Tree](https://github.com/VaishnavGhenge/ai-assignments/blob/main/minimum-spanning-tree.ipynb)
+7. [Single Source Shortest Path](https://github.com/VaishnavGhenge/ai-assignments/blob/main/single-source.ipynb)
+8. [Job Scheduling](https://github.com/VaishnavGhenge/ai-assignments/blob/main/job-scheduling.ipynb)
+9. [Prim's](https://github.com/VaishnavGhenge/ai-assignments/blob/main/prims.ipynb)
+10. [Kruskal's](https://github.com/VaishnavGhenge/ai-assignments/blob/main/kruskals.ipynb)
+11. [Dijkstra's](https://github.com/VaishnavGhenge/ai-assignments/blob/main/dijkstras.ipynb)
+12. [N-Queens](https://github.com/VaishnavGhenge/ai-assignments/blob/main/n-queens.ipynb)
+13. [Graph Coloring](https://github.com/VaishnavGhenge/ai-assignments/blob/main/graph-coloring.ipynb)
+14. [ChatBot](https://github.com/VaishnavGhenge/ai-assignments/blob/main/chatbot.ipynb)
