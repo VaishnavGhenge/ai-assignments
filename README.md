@@ -3,7 +3,7 @@
 1. [DFS BFS](https://vaishnavghenge.github.io/ai-assignments/dfs-bfs.ipynb)
 2. [A* Tic Tac Toe](https://vaishnavghenge.github.io/ai-assignments/astar-tictactoe.ipynb)
 3. [A* Optimal Path](https://vaishnavghenge.github.io/ai-assignments/astar-optimal-path.ipynb)
-4. [A* 8 Tiles Puzzle](https://vaishnavghenge.github.io/ai-assignments/astar-tictactoe.ipynb)
+4. [A* 8 Tiles Puzzle](https://vaishnavghenge.github.io/ai-assignments/astar-8puzzle.ipynb)
 5. [Selection Sort](https://vaishnavghenge.github.io/ai-assignments/selection-sort.ipynb)
 6. [Minimum Spanning Tree](https://vaishnavghenge.github.io/ai-assignments/minimum-spanning-tree.ipynb)
 7. [Single Source Shortest Path](https://vaishnavghenge.github.io/ai-assignments/single-source.ipynb)
